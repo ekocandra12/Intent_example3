@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentExm3</string>
+    <string name="calculator_bmi">Calculate BMI</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="textview">Text View</string>
+    <string name="calc_bmi">calc bmi</string>
+</resources>
